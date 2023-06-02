@@ -1,0 +1,14 @@
+{
+	"name":"Shoe",
+	"alt_names": ["Footwear"],
+	"description": "An article of clothing made for bipeds by bipeds.",
+	"short_description": "Clothing for your feet.",
+	"sellers": ["Footwear Inc."],
+	"price": 19.99,
+	"rating": 3.755,
+	"image_path": "items/Shoe0/main/images.jpg",
+	"alt_image_paths": ["items/Shoe0/ja-morant-shoe.jpg", "items/Shoe0/adidas-womens-cloudfoam-pure-running-shoe-5f4e6602f9444d0f8570ec4c3f949c22.jpg"],
+	"tags": ["shoes", "footwear", "stylish"],
+	"types": ["shoes", "footwear", "designer"],
+	"item_folder": "Shoe0"
+}
