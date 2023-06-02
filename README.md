@@ -18,7 +18,7 @@ This endpoint is used to add, remove, and update items.
 
 	 - `short_description` : A short description of the item.
 
-	 - `sellers` : A list of the sellers/companies that produce the item.
+	 - `sellers` : A json list of the sellers/companies that produce the item.
 
 	 - `price` : A float representing the price of the item.
 
