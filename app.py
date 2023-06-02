@@ -1,4 +1,3 @@
-from typing import Annotated
 from fastapi import FastAPI, UploadFile, Form, File
 from fastapi.staticfiles import StaticFiles
 from motor.motor_asyncio import AsyncIOMotorClient
